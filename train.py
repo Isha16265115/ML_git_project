@@ -5,4 +5,4 @@ print("Machine Learning Model Training Started")
 model = LinearRegression()
 
 print("Linear Regression model created successfully")
-print("ML model training completed")
+print("Decision Tree model")
